@@ -3,9 +3,7 @@
  */  
 #include <stdio.h>
 #include <conio.h>
-  
-#define LOWER_LIMIT 0
-#define HIGHER_LIMIT 1000
+
   
 int
 main (void)
